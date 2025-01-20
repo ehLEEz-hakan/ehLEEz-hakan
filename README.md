@@ -1,7 +1,6 @@
 <body>
-<big> 
-  <strong> Hello, I'm EhLeez</strong>
-</big>
+<h1><strong> Hello, I'm EhLeez</strong>
+</h1>
 <p></p>
 - I’m interested in design and <em>ABSOLUTELY adore</em> dogs.
 <p></p>
