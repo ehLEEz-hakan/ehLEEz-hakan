@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @ehLEEz-hakan
-- 👀 I’m interested in design and <i> IRL</i>dogs.
-- 🌱 I’m currently (trying to) learn(ing) to code HTML and python.  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<body>
+<big> 
+  <strong> Hello, I'm EhLeez</strong>
+</big>
+<p></p>
+- I’m interested in design and <em>ABSOLUTELY adore</em> dogs.
+<p></p>
+- I’m currently
+<small>(trying to)</small>
+learn HTML.  <p></p>
+<br> 
+<h4>PLS SEND HTML-tags!!!!</h4>
+<h6> (the ones i learned in 2010 are sadly not working…) </h6>
+- ⚡ 
+</body>
 <!---
-ehLEEz-hakan/ehLEEz-hakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
